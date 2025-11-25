@@ -2,7 +2,7 @@
 
 - [Launch Blog Post](https://github.blog/changelog/2025-09-22-github-copilot-app-modernization-is-now-generally-available-for-java-and-net/)
 - [Brens Sample Project](https://github.com/brendonmatheson/spring-boot-spring-loaded-java8-example)
-- [Ignite 2025 - Modernize your apps in days with AI agents in GitHub Copilot](Modernize your apps in days with AI agents in GitHub Copilot)
+- [Ignite 2025 - BRK103 - Modernize your apps in days with AI agents in GitHub Copilot](https://ignite.microsoft.com/en-US/sessions/BRK103)
 
 # Azure SRE Agent
 
